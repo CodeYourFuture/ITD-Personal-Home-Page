@@ -1,6 +1,5 @@
 /* =================
   WRITE YOUR CSS HERE.
-  Check the ⌄ for help with formatting and validating your code.
   You must write some CSS to complete this challenge.
    ===================
 */
@@ -14,4 +13,6 @@ body {
 .jest-lite-report__status--pass {
   background: var(--color-pass);
 }
-.jest-lite-report__errors { display:none }
+.jest-lite-report__errors {
+  display: none;
+}
